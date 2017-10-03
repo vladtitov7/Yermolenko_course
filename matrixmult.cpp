@@ -72,7 +72,7 @@ int main()
 	delete[] matrB;
 	delete[] matrC;
 	
-	system("pause");
+	//system("pause");
 	
 	return 0;
 }
